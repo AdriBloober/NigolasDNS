@@ -1,7 +1,7 @@
 ## NigolasDNS
 
 I wanted to learn GoLang and DNS Mangement. So i have developed by own minimal dns server.  
-**DO NOT IN PRODUCTION**
+**DO NOT USE IN PRODUCTION**
 This is a development project, so do not use it in production environment!
 
 ### Installation
