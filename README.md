@@ -29,4 +29,4 @@ hosting project. So support him!
 
 ### Author
 
-My name is AdriBloober, it is my first golang project and my first contact with dns. So don't expect too vile!
+My name is AdriBloober, it is my first golang project and my first contact with dns. So don't expect too much!
